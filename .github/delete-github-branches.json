@@ -3,7 +3,7 @@
   "repo": "delete-github-branches-actions-demo",
   "excludesBranchPatterns": [
     "master",
-    "develop",
+    "develop"
   ],
   "stalledDays": 0
 }
