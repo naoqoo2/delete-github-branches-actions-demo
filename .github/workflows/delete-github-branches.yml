@@ -3,7 +3,6 @@ name: delete-github-branches
 on:
   pull_request:
     types: [opened]
-  # At 00:00 everyday
   schedule:
     - cron: '*/5 * * * *'
 
