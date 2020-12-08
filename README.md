@@ -1,3 +1,5 @@
+メモ：cronの設定を5分にしてブランチルールを変更して動作検証した。いまはActionsを無効にしているので動いていない。
+
 # delete-github-branches-actions-demo
 
 GitHub Actions + [delete-github-branches](https://github.com/azu/delete-github-branches)
